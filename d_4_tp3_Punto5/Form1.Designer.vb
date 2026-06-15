@@ -31,7 +31,7 @@ Partial Class Form1
         ' 
         cmdEjecutar.Location = New Point(12, 12)
         cmdEjecutar.Name = "cmdEjecutar"
-        cmdEjecutar.Size = New Size(94, 29)
+        cmdEjecutar.Size = New Size(306, 29)
         cmdEjecutar.TabIndex = 0
         cmdEjecutar.Text = "Ejecutar"
         cmdEjecutar.UseVisualStyleBackColor = True
