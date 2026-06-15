@@ -41,7 +41,7 @@ Partial Class Form1
         lstVector10.FormattingEnabled = True
         lstVector10.Location = New Point(12, 47)
         lstVector10.Name = "lstVector10"
-        lstVector10.Size = New Size(150, 244)
+        lstVector10.Size = New Size(150, 224)
         lstVector10.TabIndex = 1
         ' 
         ' lstVector15
@@ -49,14 +49,14 @@ Partial Class Form1
         lstVector15.FormattingEnabled = True
         lstVector15.Location = New Point(168, 47)
         lstVector15.Name = "lstVector15"
-        lstVector15.Size = New Size(150, 384)
+        lstVector15.Size = New Size(150, 324)
         lstVector15.TabIndex = 2
         ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(330, 450)
+        ClientSize = New Size(330, 381)
         Controls.Add(lstVector15)
         Controls.Add(lstVector10)
         Controls.Add(cmdEjecutar)
